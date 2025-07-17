@@ -1,1 +1,3 @@
-Orekhov Artem; Python
+Surname: Orekhov;
+Name: Artem;
+Programming Language: Python.
